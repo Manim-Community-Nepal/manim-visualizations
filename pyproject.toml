@@ -1,0 +1,11 @@
+[project]
+name = "tensor-geometry"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "manim>=0.19.0",
+    "manim-ml>=0.0.24",
+    "matplotlib>=3.10.6",
+]

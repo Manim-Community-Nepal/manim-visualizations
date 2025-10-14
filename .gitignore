@@ -1,0 +1,27 @@
+# venv folders
+.venv/
+.env
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints
+
+# manim artifacts
+# Ignore everything in media
+**/media/**
+!**/media/jupyter/
+!**/media/jupyter/**
+
+# Except the jupyter folder
+!media/jupyter/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# notes and log files
+*.notes
