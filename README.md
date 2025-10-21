@@ -1,8 +1,4 @@
-## 1. Visualizations:
-
-This section consists of manim based visualization of different operations on tensorspace. 
-Though it's not possible to visualize everything on a high dimension we'll use some techniques
-throughout the way.
+## Mathematical Visualization COllections In Manim
 
 ### 1. 1. Intro To Manim Based Visualizations:
 
@@ -12,5 +8,6 @@ throughout the way.
 
 > [Manim Community Docs](https://www.manim.community/)
 
+WIP...
 
-[WIP] Test Foo Commit
+- [License](./License.md)
