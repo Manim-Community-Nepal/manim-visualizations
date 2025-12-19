@@ -10,4 +10,4 @@
 
 WIP...
 
-- [License](./License.mds)
+- [License](./License.md)
